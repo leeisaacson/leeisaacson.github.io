@@ -981,7 +981,7 @@ FOOTER from sara
 
 */
 #footer {
-  background: #222222;
+  background: #fff;
   font-size: 14px;
   line-height: 170px;
 }
@@ -1024,7 +1024,7 @@ FOOTER from sara
 #footer p {
   margin: 0;
   text-align: right;
-  color: #eeeeee;
+  color: #222222;
   font-family: 'Roboto', sans-serif;
 }
 @media (max-width: 767px) {
