@@ -974,6 +974,27 @@ footer.main-footer .copyrights a:hover {
 }
 
 /*
+=====================
+FOOTER from sara
+=====================
+*/
+
+.text-parallax {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  -webkit-backface-visibility: hidden;
+}
+.text-parallax.parallax-image1 {
+  background: url('../img/parallax.png') center center no-repeat fixed;
+}
+@media (max-width: 991px) {
+  .text-parallax {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+}
+
+/*
 
 =====================
 FOOTER from sara
