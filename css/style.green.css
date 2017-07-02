@@ -315,7 +315,8 @@ nav.navbar ul.nav a {
   color: #fff;
   font-weight: 500;
   font-size: 1.1em;
-  text-shadow: 1px 1px 2px #041e26;
+/* text-shadow: 1px 1px 2px #041e26;
+*/
 }
 nav.navbar ul.nav a:hover,
 nav.navbar ul.nav a:focus {
@@ -326,7 +327,8 @@ nav.navbar a.navbar-brand {
   color: #fff;
   font-weight: 900;
   text-transform: uppercase;
-  text-shadow: 2px 2px 2px #041e26;
+/*  text-shadow: 2px 2px 2px #041e26;
+*/
 }
 nav.navbar a.navbar-brand:hover,
 nav.navbar a.navbar-brand:focus {
