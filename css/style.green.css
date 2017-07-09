@@ -80,6 +80,12 @@ section.section--padding-bottom-small {
 .margin-bottom--big {
   margin-bottom: 60px !important;
 }
+.h2-lines {
+  display: inline-block;
+  border-bottom: solid 1px #ccc;
+  border-top: solid 1px #ccc;
+  padding: 10px;
+}
 a,
 button {
   -webkit-transition: all 0.2s ease-out;
@@ -2049,10 +2055,6 @@ h1,
 h2,
 .h2 {
   font-size: 2.6em;
-  display: inline-block;
-  border-bottom: solid 1px #ccc;
-  border-top: solid 1px #ccc;
-  padding: 10px;
 }
 h3,
 .h3 {
