@@ -2049,6 +2049,10 @@ h1,
 h2,
 .h2 {
   font-size: 2.6em;
+  display: inline-block;
+  border-bottom: solid 1px #ccc;
+  border-top: solid 1px #ccc;
+  padding: 10px;
 }
 h3,
 .h3 {
