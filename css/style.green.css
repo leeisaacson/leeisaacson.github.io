@@ -361,7 +361,7 @@ section.hero {
   overflow:  hidden;
 }
 section.hero::before {
-  content: 'PORTFOLIO';
+  content: '';
   display: inline-block;
   color: #000;
   opacity: 0.04;
