@@ -60,6 +60,14 @@ section.section--padding-bottom-small {
 .img-responsive {
   margin: 0 auto;
 }
+.remarketing {
+  margin: auto 0;
+}
+.remarketing-half {
+  width: 50%;
+  float: left;
+  display: inline-block;
+}
 .no-space .box {
   margin: 0 -15px;
   padding: 0;
