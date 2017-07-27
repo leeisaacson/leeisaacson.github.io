@@ -62,6 +62,8 @@ section.section--padding-bottom-small {
 }
 .remarketing {
   margin: auto 0;
+  width: 100%;
+  padding: 6px;
 }
 .remarketing-half {
   width: 50%;
