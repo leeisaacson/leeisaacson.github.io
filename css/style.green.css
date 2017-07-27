@@ -610,7 +610,7 @@ section.portfolio {
 }
 section.portfolio .item {
   overflow: hidden;
-  padding: 0;
+  padding: 9px;
   margin: 0;
   position: relative;
 }
